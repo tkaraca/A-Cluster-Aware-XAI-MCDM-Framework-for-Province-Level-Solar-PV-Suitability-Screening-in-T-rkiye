@@ -1,0 +1,2 @@
+# Optional. If installed, 02c computes KernelSHAP weights; otherwise it uses finite-difference sensitivity as fallback.
+shap>=0.43
